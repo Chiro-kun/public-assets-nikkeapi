@@ -9,6 +9,15 @@
       "steps": 10,
       "squads": 1,
       "ready": true
+    },
+    {
+      "id": "2",
+      "kind": "normal",
+      "name": "Settore 02",
+      "title": "Settore 2 — Percorso Ottimale",
+      "steps": 15,
+      "squads": 1,
+      "ready": true
     }
   ]
 }
