@@ -18,6 +18,357 @@
       "steps": 15,
       "squads": 1,
       "ready": true
+    },
+    {
+      "id": "3",
+      "kind": "normal",
+      "name": "Settore 03",
+      "title": "Lost Sector 03",
+      "steps": 15,
+      "squads": 1,
+      "ready": true
+    },
+    {
+      "id": "4",
+      "kind": "normal",
+      "name": "Settore 04",
+      "title": "Lost Sector 04",
+      "steps": 17,
+      "squads": 1,
+      "ready": true
+    },
+    {
+      "id": "5",
+      "kind": "normal",
+      "name": "Settore 05",
+      "title": "Lost Sector 05",
+      "steps": 21,
+      "squads": 1,
+      "ready": true
+    },
+    {
+      "id": "ex-01",
+      "kind": "ex",
+      "name": "Settore EX-01",
+      "title": "Lost Sector EX-01",
+      "steps": 37,
+      "squads": 1,
+      "ready": true
+    },
+    {
+      "id": "6",
+      "kind": "normal",
+      "name": "Settore 06",
+      "title": "Lost Sector 06",
+      "steps": 22,
+      "squads": 1,
+      "ready": true
+    },
+    {
+      "id": "7",
+      "kind": "normal",
+      "name": "Settore 07",
+      "title": "Lost Sector 07",
+      "steps": 37,
+      "squads": 1,
+      "ready": true
+    },
+    {
+      "id": "8",
+      "kind": "normal",
+      "name": "Settore 08",
+      "title": "Lost Sector 08",
+      "steps": 22,
+      "squads": 1,
+      "ready": true
+    },
+    {
+      "id": "9",
+      "kind": "normal",
+      "name": "Settore 09",
+      "title": "Lost Sector 09",
+      "steps": 43,
+      "squads": 1,
+      "ready": true
+    },
+    {
+      "id": "10",
+      "kind": "normal",
+      "name": "Settore 10",
+      "title": "Lost Sector 10",
+      "steps": 38,
+      "squads": 1,
+      "ready": true
+    },
+    {
+      "id": "ex-02",
+      "kind": "ex",
+      "name": "Settore EX-02",
+      "title": "Lost Sector EX-02",
+      "steps": 49,
+      "squads": 1,
+      "ready": true
+    },
+    {
+      "id": "11",
+      "kind": "normal",
+      "name": "Settore 11",
+      "title": "Lost Sector 11",
+      "steps": 27,
+      "squads": 2,
+      "ready": true
+    },
+    {
+      "id": "12",
+      "kind": "normal",
+      "name": "Settore 12",
+      "title": "Lost Sector 12",
+      "steps": 28,
+      "squads": 2,
+      "ready": true
+    },
+    {
+      "id": "13",
+      "kind": "normal",
+      "name": "Settore 13",
+      "title": "Lost Sector 13",
+      "steps": 39,
+      "squads": 2,
+      "ready": true
+    },
+    {
+      "id": "ex-03",
+      "kind": "ex",
+      "name": "Settore EX-03",
+      "title": "Lost Sector EX-03",
+      "steps": 51,
+      "squads": 2,
+      "ready": true
+    },
+    {
+      "id": "14",
+      "kind": "normal",
+      "name": "Settore 14",
+      "title": "Lost Sector 14",
+      "steps": 69,
+      "squads": 2,
+      "ready": true
+    },
+    {
+      "id": "15",
+      "kind": "normal",
+      "name": "Settore 15",
+      "title": "Lost Sector 15",
+      "steps": 96,
+      "squads": 2,
+      "ready": true
+    },
+    {
+      "id": "ex-04",
+      "kind": "ex",
+      "name": "Settore EX-04",
+      "title": "Lost Sector EX-04",
+      "steps": 79,
+      "squads": 3,
+      "ready": true
+    },
+    {
+      "id": "ex-05",
+      "kind": "ex",
+      "name": "Settore EX-05",
+      "title": "Lost Sector EX-05",
+      "steps": 73,
+      "squads": 2,
+      "ready": true
+    },
+    {
+      "id": "16",
+      "kind": "normal",
+      "name": "Settore 16",
+      "title": "Lost Sector 16",
+      "steps": 36,
+      "squads": 1,
+      "ready": true
+    },
+    {
+      "id": "17",
+      "kind": "normal",
+      "name": "Settore 17",
+      "title": "Lost Sector 17",
+      "steps": 40,
+      "squads": 2,
+      "ready": true
+    },
+    {
+      "id": "18",
+      "kind": "normal",
+      "name": "Settore 18",
+      "title": "Lost Sector 18",
+      "steps": 68,
+      "squads": 1,
+      "ready": true
+    },
+    {
+      "id": "ex-06",
+      "kind": "ex",
+      "name": "Settore EX-06",
+      "title": "Lost Sector EX-06",
+      "steps": 86,
+      "squads": 1,
+      "ready": true
+    },
+    {
+      "id": "19",
+      "kind": "normal",
+      "name": "Settore 19",
+      "title": "Lost Sector 19",
+      "steps": 53,
+      "squads": 1,
+      "ready": true
+    },
+    {
+      "id": "20",
+      "kind": "normal",
+      "name": "Settore 20",
+      "title": "Lost Sector 20",
+      "steps": 54,
+      "squads": 2,
+      "ready": true
+    },
+    {
+      "id": "21",
+      "kind": "normal",
+      "name": "Settore 21",
+      "title": "Lost Sector 21",
+      "steps": 58,
+      "squads": 1,
+      "ready": true
+    },
+    {
+      "id": "ex-07",
+      "kind": "ex",
+      "name": "Settore EX-07",
+      "title": "Lost Sector EX-07",
+      "steps": 104,
+      "squads": 1,
+      "ready": true
+    },
+    {
+      "id": "22",
+      "kind": "normal",
+      "name": "Settore 22",
+      "title": "Lost Sector 22",
+      "steps": 121,
+      "squads": 1,
+      "ready": true
+    },
+    {
+      "id": "23",
+      "kind": "normal",
+      "name": "Settore 23",
+      "title": "Lost Sector 23",
+      "steps": 0,
+      "squads": 1,
+      "ready": false
+    },
+    {
+      "id": "24",
+      "kind": "normal",
+      "name": "Settore 24",
+      "title": "Lost Sector 24",
+      "steps": 0,
+      "squads": 1,
+      "ready": false
+    },
+    {
+      "id": "25",
+      "kind": "normal",
+      "name": "Settore 25",
+      "title": "Lost Sector 25",
+      "steps": 0,
+      "squads": 1,
+      "ready": false
+    },
+    {
+      "id": "26",
+      "kind": "normal",
+      "name": "Settore 26",
+      "title": "Lost Sector 26",
+      "steps": 0,
+      "squads": 1,
+      "ready": false
+    },
+    {
+      "id": "27",
+      "kind": "normal",
+      "name": "Settore 27",
+      "title": "Lost Sector 27",
+      "steps": 0,
+      "squads": 1,
+      "ready": false
+    },
+    {
+      "id": "28",
+      "kind": "normal",
+      "name": "Settore 28",
+      "title": "Lost Sector 28",
+      "steps": 0,
+      "squads": 1,
+      "ready": false
+    },
+    {
+      "id": "29",
+      "kind": "normal",
+      "name": "Settore 29",
+      "title": "Lost Sector 29",
+      "steps": 0,
+      "squads": 1,
+      "ready": false
+    },
+    {
+      "id": "30",
+      "kind": "normal",
+      "name": "Settore 30",
+      "title": "Lost Sector 30",
+      "steps": 0,
+      "squads": 1,
+      "ready": false
+    },
+    {
+      "id": "31",
+      "kind": "normal",
+      "name": "Settore 31",
+      "title": "Lost Sector 31",
+      "steps": 0,
+      "squads": 1,
+      "ready": false
+    },
+    {
+      "id": "ex-08",
+      "kind": "ex",
+      "name": "Settore EX-08",
+      "title": "Lost Sector EX-08",
+      "steps": 0,
+      "squads": 1,
+      "ready": false
+    },
+    {
+      "id": "ex-10",
+      "kind": "ex",
+      "name": "Settore EX-10",
+      "title": "Lost Sector EX-10",
+      "steps": 0,
+      "squads": 1,
+      "ready": false
+    },
+    {
+      "id": "ex-15",
+      "kind": "ex",
+      "name": "Settore EX-15",
+      "title": "Lost Sector EX-15",
+      "steps": 0,
+      "squads": 1,
+      "ready": false
     }
   ]
 }
