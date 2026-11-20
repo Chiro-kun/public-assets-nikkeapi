@@ -267,18 +267,18 @@
       "kind": "normal",
       "name": "Settore 23",
       "title": "Lost Sector 23",
-      "steps": 0,
+      "steps": 40,
       "squads": 1,
-      "ready": false
+      "ready": true
     },
     {
       "id": "24",
       "kind": "normal",
       "name": "Settore 24",
       "title": "Lost Sector 24",
-      "steps": 0,
+      "steps": 115,
       "squads": 1,
-      "ready": false
+      "ready": true
     },
     {
       "id": "25",
@@ -348,9 +348,9 @@
       "kind": "ex",
       "name": "Settore EX-08",
       "title": "Lost Sector EX-08",
-      "steps": 0,
+      "steps": 69,
       "squads": 1,
-      "ready": false
+      "ready": true
     },
     {
       "id": "ex-10",
